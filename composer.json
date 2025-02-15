@@ -1,13 +1,7 @@
 {
     "name": "gearmagicru/gm-wd-yandexshare",
-    "description": "Site widget \"Yandex Share block\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "site",
-        "widget",
-        "yandex"
-    ],
+    "description": "Website widget \"Yandex Share block\"",
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-widget", "widget", "yandex"],
     "homepage": "https://apps.gearmagic.ru/component/gm-wd-yandexshare",
     "type": "component",
     "license": "MIT",
